@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'SFUIHeavy';
+  src: url('SFUIText-Heavy.eot'); /* IE9 Compat Modes */
+  src: url('SFUIText-Heavy.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('SFUIText-Heavy.woff') format('woff'), /* Modern Browsers */
+       url('SFUIText-Heavy.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('SFUIText-Heavy.svg#54471f1feda9dd3024e55aee1d1a5dc3') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+@font-face {
+  font-family: 'SFUIText';
+  src: url('SFUIText-Regular.eot'); /* IE9 Compat Modes */
+  src: url('SFUIText-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('SFUIText-Regular.woff') format('woff'), /* Modern Browsers */
+       url('SFUIText-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('SFUIText-Regular.svg#9fef9c1e9495539ae44b9413de12d80c') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
